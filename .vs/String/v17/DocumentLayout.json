@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Siana\\String\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58395B67-7448-4D2A-B2BF-E3D101DE9487}|Bukvi\\Bukvi.csproj|c:\\users\\lenovo\\desktop\\siana\\string\\bukvi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58395B67-7448-4D2A-B2BF-E3D101DE9487}|Bukvi\\Bukvi.csproj|solutionrelative:bukvi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EFF12-1396-4EDE-8F1D-26BAAC481D0A}|Skrivalishte\\Skrivalishte.csproj|c:\\users\\lenovo\\desktop\\siana\\string\\skrivalishte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EFF12-1396-4EDE-8F1D-26BAAC481D0A}|Skrivalishte\\Skrivalishte.csproj|solutionrelative:skrivalishte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CAC425-F048-44CF-B9BD-2C514F5E112D}|Cezer\\Cezer.csproj|c:\\users\\lenovo\\desktop\\siana\\string\\cezer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CAC425-F048-44CF-B9BD-2C514F5E112D}|Cezer\\Cezer.csproj|solutionrelative:cezer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD61F911-8F3D-4500-9D64-9CA5BF31133B}|RazklashtaneNaMelrax\\RazklashtaneNaMelrax.csproj|c:\\users\\lenovo\\desktop\\siana\\string\\razklashtanenamelrax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD61F911-8F3D-4500-9D64-9CA5BF31133B}|RazklashtaneNaMelrax\\RazklashtaneNaMelrax.csproj|solutionrelative:razklashtanenamelrax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874EB50A-27C2-4EAE-93B1-2EB83971BAE0}|Zad.Podniz\\Zad.Podniz.csproj|c:\\users\\lenovo\\desktop\\siana\\string\\zad.podniz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874EB50A-27C2-4EAE-93B1-2EB83971BAE0}|Zad.Podniz\\Zad.Podniz.csproj|solutionrelative:zad.podniz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\String\\Cezer\\Program.cs",
+              "RelativeDocumentMoniker": "Cezer\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\String\\Cezer\\Program.cs",
+              "RelativeToolTip": "Cezer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:55:11.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\String\\Skrivalishte\\Program.cs",
+              "RelativeDocumentMoniker": "Skrivalishte\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\String\\Skrivalishte\\Program.cs",
+              "RelativeToolTip": "Skrivalishte\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:54:56.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\String\\Bukvi\\Program.cs",
+              "RelativeDocumentMoniker": "Bukvi\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\String\\Bukvi\\Program.cs",
+              "RelativeToolTip": "Bukvi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:37:05.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\String\\RazklashtaneNaMelrax\\Program.cs",
+              "RelativeDocumentMoniker": "RazklashtaneNaMelrax\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\String\\RazklashtaneNaMelrax\\Program.cs",
+              "RelativeToolTip": "RazklashtaneNaMelrax\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:30:42.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\String\\Zad.Podniz\\Program.cs",
+              "RelativeDocumentMoniker": "Zad.Podniz\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\String\\Zad.Podniz\\Program.cs",
+              "RelativeToolTip": "Zad.Podniz\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:23:00.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

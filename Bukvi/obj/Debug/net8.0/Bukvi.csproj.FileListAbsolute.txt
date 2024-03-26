@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\String\Bukvi\bin\Debug\net8.0\Bukvi.exe
+C:\Users\lenovo\Desktop\Siana\String\Bukvi\bin\Debug\net8.0\Bukvi.deps.json
+C:\Users\lenovo\Desktop\Siana\String\Bukvi\bin\Debug\net8.0\Bukvi.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\String\Bukvi\bin\Debug\net8.0\Bukvi.dll
+C:\Users\lenovo\Desktop\Siana\String\Bukvi\bin\Debug\net8.0\Bukvi.pdb
+C:\Users\lenovo\Desktop\Siana\String\Bukvi\obj\Debug\net8.0\Bukvi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\String\Bukvi\obj\Debug\net8.0\Bukvi.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\String\Bukvi\obj\Debug\net8.0\Bukvi.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\String\Bukvi\obj\Debug\net8.0\Bukvi.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\String\Bukvi\obj\Debug\net8.0\Bukvi.dll
+C:\Users\lenovo\Desktop\Siana\String\Bukvi\obj\Debug\net8.0\refint\Bukvi.dll
+C:\Users\lenovo\Desktop\Siana\String\Bukvi\obj\Debug\net8.0\Bukvi.pdb
+C:\Users\lenovo\Desktop\Siana\String\Bukvi\obj\Debug\net8.0\Bukvi.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\String\Bukvi\obj\Debug\net8.0\ref\Bukvi.dll

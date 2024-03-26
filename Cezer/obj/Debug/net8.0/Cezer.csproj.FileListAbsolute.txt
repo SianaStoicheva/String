@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\String\Cezer\bin\Debug\net8.0\Cezer.exe
+C:\Users\lenovo\Desktop\Siana\String\Cezer\bin\Debug\net8.0\Cezer.deps.json
+C:\Users\lenovo\Desktop\Siana\String\Cezer\bin\Debug\net8.0\Cezer.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\String\Cezer\bin\Debug\net8.0\Cezer.dll
+C:\Users\lenovo\Desktop\Siana\String\Cezer\bin\Debug\net8.0\Cezer.pdb
+C:\Users\lenovo\Desktop\Siana\String\Cezer\obj\Debug\net8.0\Cezer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\String\Cezer\obj\Debug\net8.0\Cezer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\String\Cezer\obj\Debug\net8.0\Cezer.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\String\Cezer\obj\Debug\net8.0\Cezer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\String\Cezer\obj\Debug\net8.0\Cezer.dll
+C:\Users\lenovo\Desktop\Siana\String\Cezer\obj\Debug\net8.0\refint\Cezer.dll
+C:\Users\lenovo\Desktop\Siana\String\Cezer\obj\Debug\net8.0\Cezer.pdb
+C:\Users\lenovo\Desktop\Siana\String\Cezer\obj\Debug\net8.0\Cezer.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\String\Cezer\obj\Debug\net8.0\ref\Cezer.dll

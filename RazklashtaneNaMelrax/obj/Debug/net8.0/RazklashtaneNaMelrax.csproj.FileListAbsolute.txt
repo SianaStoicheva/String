@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\String\RazklashtaneNaMelrax\bin\Debug\net8.0\RazklashtaneNaMelrax.exe
+C:\Users\lenovo\Desktop\Siana\String\RazklashtaneNaMelrax\bin\Debug\net8.0\RazklashtaneNaMelrax.deps.json
+C:\Users\lenovo\Desktop\Siana\String\RazklashtaneNaMelrax\bin\Debug\net8.0\RazklashtaneNaMelrax.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\String\RazklashtaneNaMelrax\bin\Debug\net8.0\RazklashtaneNaMelrax.dll
+C:\Users\lenovo\Desktop\Siana\String\RazklashtaneNaMelrax\bin\Debug\net8.0\RazklashtaneNaMelrax.pdb
+C:\Users\lenovo\Desktop\Siana\String\RazklashtaneNaMelrax\obj\Debug\net8.0\RazklashtaneNaMelrax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\String\RazklashtaneNaMelrax\obj\Debug\net8.0\RazklashtaneNaMelrax.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\String\RazklashtaneNaMelrax\obj\Debug\net8.0\RazklashtaneNaMelrax.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\String\RazklashtaneNaMelrax\obj\Debug\net8.0\RazklashtaneNaMelrax.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\String\RazklashtaneNaMelrax\obj\Debug\net8.0\RazklashtaneNaMelrax.dll
+C:\Users\lenovo\Desktop\Siana\String\RazklashtaneNaMelrax\obj\Debug\net8.0\refint\RazklashtaneNaMelrax.dll
+C:\Users\lenovo\Desktop\Siana\String\RazklashtaneNaMelrax\obj\Debug\net8.0\RazklashtaneNaMelrax.pdb
+C:\Users\lenovo\Desktop\Siana\String\RazklashtaneNaMelrax\obj\Debug\net8.0\RazklashtaneNaMelrax.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\String\RazklashtaneNaMelrax\obj\Debug\net8.0\ref\RazklashtaneNaMelrax.dll
